@@ -1,0 +1,1104 @@
+{
+  "students": [
+    {
+      "id": "STU001",
+      "name": "Akash Tiwari",
+      "class": "9",
+      "section": "C",
+      "archetype": "Overachiever",
+      "attendance_percent": 96.5,
+      "subjects": {
+        "Mathematics": 96,
+        "Science": 97,
+        "English": 84,
+        "Hindi": 87,
+        "Social_Science": 93
+      },
+      "extracurricular": [
+        "Debate Team",
+        "Math Club"
+      ],
+      "teacher_remarks": "Akash Tiwari is a overachiever student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Debate Team, Math Club."
+    },
+    {
+      "id": "STU002",
+      "name": "Ritu Agarwal",
+      "class": "10",
+      "section": "A",
+      "archetype": "Overachiever",
+      "attendance_percent": 96.6,
+      "subjects": {
+        "Mathematics": 89,
+        "Science": 85,
+        "English": 93,
+        "Hindi": 92,
+        "Social_Science": 89
+      },
+      "extracurricular": [
+        "Model UN",
+        "Math Club"
+      ],
+      "teacher_remarks": "Ritu Agarwal is a overachiever student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Model UN, Math Club."
+    },
+    {
+      "id": "STU003",
+      "name": "Priya Sharma",
+      "class": "11",
+      "section": "A",
+      "archetype": "Overachiever",
+      "attendance_percent": 97.1,
+      "subjects": {
+        "Mathematics": 87,
+        "Science": 92,
+        "English": 87,
+        "Hindi": 95,
+        "Social_Science": 91
+      },
+      "extracurricular": [
+        "Debate Team",
+        "Science Olympiad"
+      ],
+      "teacher_remarks": "Priya Sharma is a overachiever student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Debate Team, Science Olympiad."
+    },
+    {
+      "id": "STU004",
+      "name": "Ishaan Kumar",
+      "class": "11",
+      "section": "B",
+      "archetype": "Overachiever",
+      "attendance_percent": 96.3,
+      "subjects": {
+        "Mathematics": 86,
+        "Science": 95,
+        "English": 89,
+        "Hindi": 87,
+        "Social_Science": 88
+      },
+      "extracurricular": [
+        "Science Olympiad",
+        "Debate Team"
+      ],
+      "teacher_remarks": "Ishaan Kumar is a overachiever student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Science Olympiad, Debate Team."
+    },
+    {
+      "id": "STU005",
+      "name": "Yash Agarwal",
+      "class": "12",
+      "section": "A",
+      "archetype": "Overachiever",
+      "attendance_percent": 93.1,
+      "subjects": {
+        "Mathematics": 92,
+        "Science": 92,
+        "English": 100,
+        "Hindi": 88,
+        "Social_Science": 88
+      },
+      "extracurricular": [
+        "Math Club",
+        "Debate Team"
+      ],
+      "teacher_remarks": "Yash Agarwal is a overachiever student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Math Club, Debate Team."
+    },
+    {
+      "id": "STU006",
+      "name": "Parth Trivedi",
+      "class": "12",
+      "section": "A",
+      "archetype": "Overachiever",
+      "attendance_percent": 92.1,
+      "subjects": {
+        "Mathematics": 85,
+        "Science": 87,
+        "English": 82,
+        "Hindi": 78,
+        "Social_Science": 78
+      },
+      "extracurricular": [
+        "Model UN",
+        "Debate Team"
+      ],
+      "teacher_remarks": "Parth Trivedi is a overachiever student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Model UN, Debate Team."
+    },
+    {
+      "id": "STU007",
+      "name": "Ananya Krishnan",
+      "class": "12",
+      "section": "C",
+      "archetype": "Overachiever",
+      "attendance_percent": 95.4,
+      "subjects": {
+        "Mathematics": 99,
+        "Science": 94,
+        "English": 98,
+        "Hindi": 97,
+        "Social_Science": 98
+      },
+      "extracurricular": [
+        "Debate Team",
+        "Model UN"
+      ],
+      "teacher_remarks": "Ananya Krishnan is a overachiever student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Debate Team, Model UN."
+    },
+    {
+      "id": "STU008",
+      "name": "Aditya Singh",
+      "class": "11",
+      "section": "C",
+      "archetype": "Overachiever",
+      "attendance_percent": 95.5,
+      "subjects": {
+        "Mathematics": 90,
+        "Science": 92,
+        "English": 89,
+        "Hindi": 90,
+        "Social_Science": 92
+      },
+      "extracurricular": [
+        "Science Olympiad",
+        "Model UN"
+      ],
+      "teacher_remarks": "Aditya Singh is a overachiever student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Science Olympiad, Model UN."
+    },
+    {
+      "id": "STU009",
+      "name": "Karan Patel",
+      "class": "10",
+      "section": "B",
+      "archetype": "Creative Underperformer",
+      "attendance_percent": 72.7,
+      "subjects": {
+        "Mathematics": 35,
+        "Science": 32,
+        "English": 39,
+        "Hindi": 69,
+        "Social_Science": 28
+      },
+      "extracurricular": [
+        "Photography",
+        "Music Band"
+      ],
+      "teacher_remarks": "Karan Patel is a creative underperformer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Photography, Music Band."
+    },
+    {
+      "id": "STU010",
+      "name": "Aisha Khan",
+      "class": "11",
+      "section": "C",
+      "archetype": "Creative Underperformer",
+      "attendance_percent": 68.5,
+      "subjects": {
+        "Mathematics": 23,
+        "Science": 47,
+        "English": 55,
+        "Hindi": 63,
+        "Social_Science": 65
+      },
+      "extracurricular": [
+        "Sketching",
+        "Photography"
+      ],
+      "teacher_remarks": "Aisha Khan is a creative underperformer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Sketching, Photography."
+    },
+    {
+      "id": "STU011",
+      "name": "Shreya Rao",
+      "class": "10",
+      "section": "A",
+      "archetype": "Creative Underperformer",
+      "attendance_percent": 65.5,
+      "subjects": {
+        "Mathematics": 42,
+        "Science": 65,
+        "English": 47,
+        "Hindi": 28,
+        "Social_Science": 30
+      },
+      "extracurricular": [
+        "Drama Club",
+        "Music Band"
+      ],
+      "teacher_remarks": "Shreya Rao is a creative underperformer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Drama Club, Music Band."
+    },
+    {
+      "id": "STU012",
+      "name": "Kabir Shah",
+      "class": "10",
+      "section": "A",
+      "archetype": "Creative Underperformer",
+      "attendance_percent": 61.0,
+      "subjects": {
+        "Mathematics": 46,
+        "Science": 40,
+        "English": 50,
+        "Hindi": 31,
+        "Social_Science": 40
+      },
+      "extracurricular": [
+        "Sketching",
+        "Music Band"
+      ],
+      "teacher_remarks": "Kabir Shah is a creative underperformer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Sketching, Music Band."
+    },
+    {
+      "id": "STU013",
+      "name": "Siddharth Joshi",
+      "class": "9",
+      "section": "C",
+      "archetype": "Creative Underperformer",
+      "attendance_percent": 72.0,
+      "subjects": {
+        "Mathematics": 54,
+        "Science": 35,
+        "English": 40,
+        "Hindi": 40,
+        "Social_Science": 25
+      },
+      "extracurricular": [
+        "Painting",
+        "Drama Club"
+      ],
+      "teacher_remarks": "Siddharth Joshi is a creative underperformer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Painting, Drama Club."
+    },
+    {
+      "id": "STU014",
+      "name": "Riya Patel",
+      "class": "12",
+      "section": "B",
+      "archetype": "Creative Underperformer",
+      "attendance_percent": 68.3,
+      "subjects": {
+        "Mathematics": 38,
+        "Science": 46,
+        "English": 54,
+        "Hindi": 54,
+        "Social_Science": 57
+      },
+      "extracurricular": [
+        "Music Band",
+        "Sketching"
+      ],
+      "teacher_remarks": "Riya Patel is a creative underperformer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Music Band, Sketching."
+    },
+    {
+      "id": "STU015",
+      "name": "Rohan Sharma",
+      "class": "9",
+      "section": "C",
+      "archetype": "Creative Underperformer",
+      "attendance_percent": 66.9,
+      "subjects": {
+        "Mathematics": 41,
+        "Science": 12,
+        "English": 16,
+        "Hindi": 19,
+        "Social_Science": 25
+      },
+      "extracurricular": [
+        "Drama Club",
+        "Music Band"
+      ],
+      "teacher_remarks": "Rohan Sharma is a creative underperformer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Drama Club, Music Band."
+    },
+    {
+      "id": "STU016",
+      "name": "Dev Chauhan",
+      "class": "12",
+      "section": "B",
+      "archetype": "Creative Underperformer",
+      "attendance_percent": 76.4,
+      "subjects": {
+        "Mathematics": 28,
+        "Science": 38,
+        "English": 67,
+        "Hindi": 38,
+        "Social_Science": 57
+      },
+      "extracurricular": [
+        "Drama Club",
+        "Painting"
+      ],
+      "teacher_remarks": "Dev Chauhan is a creative underperformer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Drama Club, Painting."
+    },
+    {
+      "id": "STU017",
+      "name": "Rahul Gupta",
+      "class": "12",
+      "section": "A",
+      "archetype": "Silent Struggler",
+      "attendance_percent": 71.7,
+      "subjects": {
+        "Mathematics": 47,
+        "Science": 53,
+        "English": 64,
+        "Hindi": 39,
+        "Social_Science": 60
+      },
+      "extracurricular": [
+        "Chess",
+        "Gardening Club"
+      ],
+      "teacher_remarks": "Rahul Gupta is a silent struggler student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Chess, Gardening Club."
+    },
+    {
+      "id": "STU018",
+      "name": "Manav Iyer",
+      "class": "11",
+      "section": "B",
+      "archetype": "Silent Struggler",
+      "attendance_percent": 73.7,
+      "subjects": {
+        "Mathematics": 42,
+        "Science": 33,
+        "English": 47,
+        "Hindi": 42,
+        "Social_Science": 49
+      },
+      "extracurricular": [
+        "Gardening Club",
+        "Library Club"
+      ],
+      "teacher_remarks": "Manav Iyer is a silent struggler student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Gardening Club, Library Club."
+    },
+    {
+      "id": "STU019",
+      "name": "Pooja Reddy",
+      "class": "12",
+      "section": "C",
+      "archetype": "Silent Struggler",
+      "attendance_percent": 74.4,
+      "subjects": {
+        "Mathematics": 42,
+        "Science": 34,
+        "English": 45,
+        "Hindi": 46,
+        "Social_Science": 57
+      },
+      "extracurricular": [
+        "Chess",
+        "Gardening Club"
+      ],
+      "teacher_remarks": "Pooja Reddy is a silent struggler student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Chess, Gardening Club."
+    },
+    {
+      "id": "STU020",
+      "name": "Nikhil Verma",
+      "class": "11",
+      "section": "C",
+      "archetype": "Silent Struggler",
+      "attendance_percent": 69.9,
+      "subjects": {
+        "Mathematics": 56,
+        "Science": 67,
+        "English": 42,
+        "Hindi": 47,
+        "Social_Science": 44
+      },
+      "extracurricular": [
+        "Chess",
+        "Library Club"
+      ],
+      "teacher_remarks": "Nikhil Verma is a silent struggler student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Chess, Library Club."
+    },
+    {
+      "id": "STU021",
+      "name": "Palak Jain",
+      "class": "9",
+      "section": "C",
+      "archetype": "Silent Struggler",
+      "attendance_percent": 73.7,
+      "subjects": {
+        "Mathematics": 56,
+        "Science": 48,
+        "English": 36,
+        "Hindi": 40,
+        "Social_Science": 53
+      },
+      "extracurricular": [
+        "Gardening Club",
+        "Chess"
+      ],
+      "teacher_remarks": "Palak Jain is a silent struggler student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Gardening Club, Chess."
+    },
+    {
+      "id": "STU022",
+      "name": "Vivek Nair",
+      "class": "9",
+      "section": "B",
+      "archetype": "Silent Struggler",
+      "attendance_percent": 66.2,
+      "subjects": {
+        "Mathematics": 67,
+        "Science": 77,
+        "English": 52,
+        "Hindi": 39,
+        "Social_Science": 27
+      },
+      "extracurricular": [
+        "Chess",
+        "Library Club"
+      ],
+      "teacher_remarks": "Vivek Nair is a silent struggler student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Chess, Library Club."
+    },
+    {
+      "id": "STU023",
+      "name": "Harsh Saxena",
+      "class": "9",
+      "section": "C",
+      "archetype": "Silent Struggler",
+      "attendance_percent": 69.0,
+      "subjects": {
+        "Mathematics": 57,
+        "Science": 55,
+        "English": 60,
+        "Hindi": 71,
+        "Social_Science": 62
+      },
+      "extracurricular": [
+        "Chess",
+        "Gardening Club"
+      ],
+      "teacher_remarks": "Harsh Saxena is a silent struggler student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Chess, Gardening Club."
+    },
+    {
+      "id": "STU024",
+      "name": "Sanya Shah",
+      "class": "11",
+      "section": "A",
+      "archetype": "Silent Struggler",
+      "attendance_percent": 67.1,
+      "subjects": {
+        "Mathematics": 38,
+        "Science": 32,
+        "English": 44,
+        "Hindi": 48,
+        "Social_Science": 65
+      },
+      "extracurricular": [
+        "Gardening Club",
+        "Library Club"
+      ],
+      "teacher_remarks": "Sanya Shah is a silent struggler student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Gardening Club, Library Club."
+    },
+    {
+      "id": "STU025",
+      "name": "Vidya Trivedi",
+      "class": "9",
+      "section": "C",
+      "archetype": "All-Rounder",
+      "attendance_percent": 92.0,
+      "subjects": {
+        "Mathematics": 70,
+        "Science": 64,
+        "English": 66,
+        "Hindi": 68,
+        "Social_Science": 90
+      },
+      "extracurricular": [
+        "Student Council",
+        "Cricket"
+      ],
+      "teacher_remarks": "Vidya Trivedi is a all-rounder student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Student Council, Cricket."
+    },
+    {
+      "id": "STU026",
+      "name": "Simran Kaur",
+      "class": "12",
+      "section": "C",
+      "archetype": "All-Rounder",
+      "attendance_percent": 92.8,
+      "subjects": {
+        "Mathematics": 75,
+        "Science": 62,
+        "English": 76,
+        "Hindi": 72,
+        "Social_Science": 68
+      },
+      "extracurricular": [
+        "Badminton",
+        "Student Council"
+      ],
+      "teacher_remarks": "Simran Kaur is a all-rounder student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Badminton, Student Council."
+    },
+    {
+      "id": "STU027",
+      "name": "Isha Pandey",
+      "class": "10",
+      "section": "B",
+      "archetype": "All-Rounder",
+      "attendance_percent": 85.3,
+      "subjects": {
+        "Mathematics": 86,
+        "Science": 80,
+        "English": 74,
+        "Hindi": 73,
+        "Social_Science": 84
+      },
+      "extracurricular": [
+        "Student Council",
+        "Cricket"
+      ],
+      "teacher_remarks": "Isha Pandey is a all-rounder student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Student Council, Cricket."
+    },
+    {
+      "id": "STU028",
+      "name": "Kavya Nair",
+      "class": "9",
+      "section": "A",
+      "archetype": "All-Rounder",
+      "attendance_percent": 91.7,
+      "subjects": {
+        "Mathematics": 83,
+        "Science": 82,
+        "English": 84,
+        "Hindi": 92,
+        "Social_Science": 83
+      },
+      "extracurricular": [
+        "Cricket",
+        "NCC"
+      ],
+      "teacher_remarks": "Kavya Nair is a all-rounder student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Cricket, NCC."
+    },
+    {
+      "id": "STU029",
+      "name": "Arjun Mehta",
+      "class": "12",
+      "section": "B",
+      "archetype": "All-Rounder",
+      "attendance_percent": 90.6,
+      "subjects": {
+        "Mathematics": 77,
+        "Science": 86,
+        "English": 75,
+        "Hindi": 65,
+        "Social_Science": 64
+      },
+      "extracurricular": [
+        "Cricket",
+        "Badminton"
+      ],
+      "teacher_remarks": "Arjun Mehta is a all-rounder student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Cricket, Badminton."
+    },
+    {
+      "id": "STU030",
+      "name": "Aditi Verma",
+      "class": "10",
+      "section": "A",
+      "archetype": "All-Rounder",
+      "attendance_percent": 83.6,
+      "subjects": {
+        "Mathematics": 86,
+        "Science": 72,
+        "English": 70,
+        "Hindi": 84,
+        "Social_Science": 65
+      },
+      "extracurricular": [
+        "Cricket",
+        "NCC"
+      ],
+      "teacher_remarks": "Aditi Verma is a all-rounder student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Cricket, NCC."
+    },
+    {
+      "id": "STU031",
+      "name": "Varun Reddy",
+      "class": "12",
+      "section": "A",
+      "archetype": "All-Rounder",
+      "attendance_percent": 86.0,
+      "subjects": {
+        "Mathematics": 80,
+        "Science": 83,
+        "English": 82,
+        "Hindi": 85,
+        "Social_Science": 94
+      },
+      "extracurricular": [
+        "Student Council",
+        "Badminton"
+      ],
+      "teacher_remarks": "Varun Reddy is a all-rounder student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Student Council, Badminton."
+    },
+    {
+      "id": "STU032",
+      "name": "Tanvi Joshi",
+      "class": "12",
+      "section": "A",
+      "archetype": "All-Rounder",
+      "attendance_percent": 83.7,
+      "subjects": {
+        "Mathematics": 85,
+        "Science": 64,
+        "English": 80,
+        "Hindi": 74,
+        "Social_Science": 71
+      },
+      "extracurricular": [
+        "Student Council",
+        "NCC"
+      ],
+      "teacher_remarks": "Tanvi Joshi is a all-rounder student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Student Council, NCC."
+    },
+    {
+      "id": "STU033",
+      "name": "Divya Pillai",
+      "class": "11",
+      "section": "A",
+      "archetype": "Anxious Performer",
+      "attendance_percent": 87.6,
+      "subjects": {
+        "Mathematics": 96,
+        "Science": 84,
+        "English": 91,
+        "Hindi": 89,
+        "Social_Science": 90
+      },
+      "extracurricular": [
+        "Quiz Team",
+        "Math Club"
+      ],
+      "teacher_remarks": "Divya Pillai is a anxious performer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Quiz Team, Math Club."
+    },
+    {
+      "id": "STU034",
+      "name": "Meera Iyer",
+      "class": "9",
+      "section": "C",
+      "archetype": "Anxious Performer",
+      "attendance_percent": 91.4,
+      "subjects": {
+        "Mathematics": 93,
+        "Science": 98,
+        "English": 90,
+        "Hindi": 86,
+        "Social_Science": 89
+      },
+      "extracurricular": [
+        "Science Olympiad",
+        "Math Club"
+      ],
+      "teacher_remarks": "Meera Iyer is a anxious performer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Science Olympiad, Math Club."
+    },
+    {
+      "id": "STU035",
+      "name": "Pranav Rao",
+      "class": "10",
+      "section": "A",
+      "archetype": "Anxious Performer",
+      "attendance_percent": 92.2,
+      "subjects": {
+        "Mathematics": 71,
+        "Science": 77,
+        "English": 78,
+        "Hindi": 92,
+        "Social_Science": 88
+      },
+      "extracurricular": [
+        "Math Club",
+        "Quiz Team"
+      ],
+      "teacher_remarks": "Pranav Rao is a anxious performer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Math Club, Quiz Team."
+    },
+    {
+      "id": "STU036",
+      "name": "Swati Tiwari",
+      "class": "10",
+      "section": "A",
+      "archetype": "Anxious Performer",
+      "attendance_percent": 97.1,
+      "subjects": {
+        "Mathematics": 86,
+        "Science": 79,
+        "English": 84,
+        "Hindi": 88,
+        "Social_Science": 94
+      },
+      "extracurricular": [
+        "Quiz Team",
+        "Math Club"
+      ],
+      "teacher_remarks": "Swati Tiwari is a anxious performer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Quiz Team, Math Club."
+    },
+    {
+      "id": "STU037",
+      "name": "Aarohi Mishra",
+      "class": "9",
+      "section": "C",
+      "archetype": "Anxious Performer",
+      "attendance_percent": 95.8,
+      "subjects": {
+        "Mathematics": 67,
+        "Science": 79,
+        "English": 73,
+        "Hindi": 76,
+        "Social_Science": 74
+      },
+      "extracurricular": [
+        "Quiz Team",
+        "Math Club"
+      ],
+      "teacher_remarks": "Aarohi Mishra is a anxious performer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Quiz Team, Math Club."
+    },
+    {
+      "id": "STU038",
+      "name": "Nisha Mehta",
+      "class": "12",
+      "section": "C",
+      "archetype": "Anxious Performer",
+      "attendance_percent": 93.5,
+      "subjects": {
+        "Mathematics": 80,
+        "Science": 82,
+        "English": 100,
+        "Hindi": 83,
+        "Social_Science": 84
+      },
+      "extracurricular": [
+        "Quiz Team",
+        "Math Club"
+      ],
+      "teacher_remarks": "Nisha Mehta is a anxious performer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Quiz Team, Math Club."
+    },
+    {
+      "id": "STU039",
+      "name": "Sneha Gupta",
+      "class": "10",
+      "section": "A",
+      "archetype": "Anxious Performer",
+      "attendance_percent": 95.6,
+      "subjects": {
+        "Mathematics": 86,
+        "Science": 91,
+        "English": 95,
+        "Hindi": 100,
+        "Social_Science": 88
+      },
+      "extracurricular": [
+        "Math Club",
+        "Quiz Team"
+      ],
+      "teacher_remarks": "Sneha Gupta is a anxious performer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Math Club, Quiz Team."
+    },
+    {
+      "id": "STU040",
+      "name": "Shreyas Pillai",
+      "class": "10",
+      "section": "C",
+      "archetype": "Anxious Performer",
+      "attendance_percent": 86.9,
+      "subjects": {
+        "Mathematics": 81,
+        "Science": 79,
+        "English": 75,
+        "Hindi": 77,
+        "Social_Science": 69
+      },
+      "extracurricular": [
+        "Quiz Team",
+        "Science Olympiad"
+      ],
+      "teacher_remarks": "Shreyas Pillai is a anxious performer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Quiz Team, Science Olympiad."
+    },
+    {
+      "id": "STU041",
+      "name": "Arnav Bose",
+      "class": "12",
+      "section": "B",
+      "archetype": "Late Bloomer",
+      "attendance_percent": 70.4,
+      "subjects": {
+        "Mathematics": 72,
+        "Science": 62,
+        "English": 75,
+        "Hindi": 83,
+        "Social_Science": 71
+      },
+      "extracurricular": [
+        "Environmental Club",
+        "Yoga Club"
+      ],
+      "teacher_remarks": "Arnav Bose is a late bloomer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Environmental Club, Yoga Club."
+    },
+    {
+      "id": "STU042",
+      "name": "Dhruv Malhotra",
+      "class": "11",
+      "section": "B",
+      "archetype": "Late Bloomer",
+      "attendance_percent": 75.7,
+      "subjects": {
+        "Mathematics": 56,
+        "Science": 56,
+        "English": 46,
+        "Hindi": 60,
+        "Social_Science": 55
+      },
+      "extracurricular": [
+        "Environmental Club",
+        "Football"
+      ],
+      "teacher_remarks": "Dhruv Malhotra is a late bloomer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Environmental Club, Football."
+    },
+    {
+      "id": "STU043",
+      "name": "Gaurav Sinha",
+      "class": "12",
+      "section": "B",
+      "archetype": "Late Bloomer",
+      "attendance_percent": 74.5,
+      "subjects": {
+        "Mathematics": 72,
+        "Science": 57,
+        "English": 52,
+        "Hindi": 83,
+        "Social_Science": 70
+      },
+      "extracurricular": [
+        "Craft Club",
+        "Environmental Club"
+      ],
+      "teacher_remarks": "Gaurav Sinha is a late bloomer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Craft Club, Environmental Club."
+    },
+    {
+      "id": "STU044",
+      "name": "Rishi Mishra",
+      "class": "11",
+      "section": "B",
+      "archetype": "Late Bloomer",
+      "attendance_percent": 86.6,
+      "subjects": {
+        "Mathematics": 42,
+        "Science": 78,
+        "English": 72,
+        "Hindi": 51,
+        "Social_Science": 60
+      },
+      "extracurricular": [
+        "Yoga Club",
+        "Football"
+      ],
+      "teacher_remarks": "Rishi Mishra is a late bloomer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Yoga Club, Football."
+    },
+    {
+      "id": "STU045",
+      "name": "Kriti Kapoor",
+      "class": "10",
+      "section": "B",
+      "archetype": "Late Bloomer",
+      "attendance_percent": 84.0,
+      "subjects": {
+        "Mathematics": 63,
+        "Science": 66,
+        "English": 64,
+        "Hindi": 69,
+        "Social_Science": 87
+      },
+      "extracurricular": [
+        "Craft Club",
+        "Yoga Club"
+      ],
+      "teacher_remarks": "Kriti Kapoor is a late bloomer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Craft Club, Yoga Club."
+    },
+    {
+      "id": "STU046",
+      "name": "Bhavya Saxena",
+      "class": "11",
+      "section": "B",
+      "archetype": "Late Bloomer",
+      "attendance_percent": 78.3,
+      "subjects": {
+        "Mathematics": 64,
+        "Science": 69,
+        "English": 71,
+        "Hindi": 62,
+        "Social_Science": 43
+      },
+      "extracurricular": [
+        "Yoga Club",
+        "Football"
+      ],
+      "teacher_remarks": "Bhavya Saxena is a late bloomer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Yoga Club, Football."
+    },
+    {
+      "id": "STU047",
+      "name": "Ansh Kapoor",
+      "class": "12",
+      "section": "B",
+      "archetype": "Late Bloomer",
+      "attendance_percent": 77.5,
+      "subjects": {
+        "Mathematics": 46,
+        "Science": 79,
+        "English": 63,
+        "Hindi": 67,
+        "Social_Science": 53
+      },
+      "extracurricular": [
+        "Yoga Club",
+        "Craft Club"
+      ],
+      "teacher_remarks": "Ansh Kapoor is a late bloomer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Yoga Club, Craft Club."
+    },
+    {
+      "id": "STU048",
+      "name": "Mohit Pandey",
+      "class": "10",
+      "section": "B",
+      "archetype": "Late Bloomer",
+      "attendance_percent": 75.3,
+      "subjects": {
+        "Mathematics": 77,
+        "Science": 67,
+        "English": 83,
+        "Hindi": 75,
+        "Social_Science": 65
+      },
+      "extracurricular": [
+        "Environmental Club",
+        "Yoga Club"
+      ],
+      "teacher_remarks": "Mohit Pandey is a late bloomer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Environmental Club, Yoga Club."
+    },
+    {
+      "id": "STU049",
+      "name": "Diya Kumar",
+      "class": "11",
+      "section": "B",
+      "archetype": "Late Bloomer",
+      "attendance_percent": 85.3,
+      "subjects": {
+        "Mathematics": 75,
+        "Science": 60,
+        "English": 64,
+        "Hindi": 55,
+        "Social_Science": 77
+      },
+      "extracurricular": [
+        "Craft Club",
+        "Environmental Club"
+      ],
+      "teacher_remarks": "Diya Kumar is a late bloomer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Craft Club, Environmental Club."
+    },
+    {
+      "id": "STU050",
+      "name": "Suhani Sinha",
+      "class": "9",
+      "section": "A",
+      "archetype": "Late Bloomer",
+      "attendance_percent": 73.6,
+      "subjects": {
+        "Mathematics": 78,
+        "Science": 66,
+        "English": 84,
+        "Hindi": 78,
+        "Social_Science": 93
+      },
+      "extracurricular": [
+        "Environmental Club",
+        "Craft Club"
+      ],
+      "teacher_remarks": "Suhani Sinha is a late bloomer student showing consistent effort in class.",
+      "behavioral_observations": "Participates in class activities. Gets along well with peers.",
+      "interests": "Shows interest in Environmental Club, Craft Club."
+    }
+  ]
+}
