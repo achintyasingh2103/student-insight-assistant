@@ -1,7 +1,5 @@
 # 🎓 AI-Powered Student Insight Assistant
 
-**Ekaakshar Education — AI & Automation Internship Assignment**
-
 Student Insight Assistant is a Streamlit-based, multi-agent AI system that turns raw student records into teacher-friendly insights, career guidance, and downloadable reports. It is designed around an Indian school context, with synthetic CBSE-style data, contextual career recommendations, validation guardrails, and a provider fallback chain for LLM calls.
 
 The project is meant to demonstrate how AI can help teachers, counselors, and parents move from scattered academic data to practical next steps: strengths, risks, engagement patterns, learning style signals, career directions, and parent-safe summaries.
