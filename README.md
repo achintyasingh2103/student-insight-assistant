@@ -310,8 +310,3 @@ Run the full AI analysis first. The PDF generator depends on completed insight, 
 
 ---
 
-## 📬 Submission
-
-**Candidate:** Achintya Singh  
-**Email:** achintya.singh2103@gmail.com  
-**Assignment:** AI & Automation Intern — Ekaakshar Education
